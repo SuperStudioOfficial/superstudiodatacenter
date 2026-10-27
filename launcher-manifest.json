@@ -1,1 +1,18 @@
-
+{
+  "launcher_version": "1.0.0",
+  "updated_at": "2025-01-01T00:00:00Z",
+  "games": [
+    {
+      "id": "game_001",
+      "title": "Telusur: Long Hug",
+      "description": "A pixel-art platformer with retro gameplay",
+      "cover_url": "https://www.gamespot.com/wp-content/uploads/2026/06/GTA-6-Cover-1.jpg",
+      "version": "1.2.0",
+      "size_mb": 150,
+      "download_url": "https://github.com/SuperStudioOfficial/superstudiodatacenter/releases/download/0.1-Telusur/longhug-arm64.zip",
+      "changelog": "- Added new levels\n- Fixed collision bugs\n- Improved performance",
+      "is_featured": true,
+      "tags": ["action", "platformer", "retro"]
+    }
+  ]
+}
