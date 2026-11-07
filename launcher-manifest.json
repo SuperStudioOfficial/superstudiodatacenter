@@ -15,7 +15,7 @@
       "size_mb": 150,
       "download_url": "[https://github.com/SuperStudioOfficial/superstudiodatacenter/releases/download/0.1-Telusur/longhug-arm64.zip](https://github.com/SuperStudioOfficial/superstudiodatacenter/releases/download/0.1-Telusur/longhug-arm64.zip)",
       "executable_name": "longhug.exe",
-      "changelog": "- Optimizing Graphics /n -Adding a Debugger n/",
+      "changelog": "- Optimizing Graphics\n- Adding a Debugger",
       "is_featured": true,
       "status": "released",
       "category": "HORROR",
