@@ -9,8 +9,8 @@
       "publisher": "Super Studio Production",
       "developer": "Super Studio Production",
       "description": "A horror game that tells the story of a mother who heartlessly sells her own child's organs to pay off debts and fund a lavish lifestyle.",
-      "cover_url": "[https://via.placeholder.com/400x600](https://via.placeholder.com/400x600)",
-      "banner_url": "[https://via.placeholder.com/1200x500](https://via.placeholder.com/1200x500)",
+      "cover_url": "[https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1793054556)",
+      "banner_url": "[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/4ef95eed5fcd98c576bf13e024bc6c845b622132/ss_4ef95eed5fcd98c576bf13e024bc6c845b622132.1920x1080.jpg?t=1793054556)",
       "version": "1.0.0 (Pre-Alpha)",
       "size_mb": 266,
       "download_url": "[https://github.com/SuperStudioOfficial/superstudiodatacenter/releases/download/0.1-Telusur/longhug-arm64.zip](https://github.com/SuperStudioOfficial/superstudiodatacenter/releases/download/0.1-Telusur/longhug-arm64.zip)",
@@ -21,8 +21,8 @@
       "category": "HORROR",
       "tags": ["HORROR", "STORY", "FREE"],
       "screenshots": [
-        "[https://via.placeholder.com/800x450/111/fff?text=Screenshot+1](https://via.placeholder.com/800x450/111/fff?text=Screenshot+1)",
-        "[https://via.placeholder.com/800x450/222/fff?text=Screenshot+2](https://via.placeholder.com/800x450/222/fff?text=Screenshot+2)"
+        "[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_13bb35638c0267759276f511ee97064773b37a51.1920x1080.jpg?t=1793054556)",
+        "[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0f8cf82d019c614760fd20801f2bb4001da7ea77.1920x1080.jpg?t=1793054556)"
       ]
     }
   ]
