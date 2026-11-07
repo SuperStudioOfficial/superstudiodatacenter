@@ -7,9 +7,9 @@
     {
       "id": "game_001",
       "title": "Telusur: Long Hug",
-      "publisher": "SuperStudioProduction",
-      "developer": "SSP Indie Team",
-      "description": "A pixel-art platformer with retro gameplay",
+      "publisher": "Super Studio Production",
+      "developer": "Super Studio Production",
+      "description": "A horror game that tells the story of a mother who heartlessly sells her own child's organs to pay off debts and fund a lavish lifestyle.",
       "cover_url": "[https://via.placeholder.com/400x600](https://via.placeholder.com/400x600)",
       "banner_url": "[https://via.placeholder.com/1200x500](https://via.placeholder.com/1200x500)",
       "version": "1.2.0",
@@ -25,25 +25,6 @@
         "[https://via.placeholder.com/800x450/111/fff?text=Screenshot+1](https://via.placeholder.com/800x450/111/fff?text=Screenshot+1)",
         "[https://via.placeholder.com/800x450/222/fff?text=Screenshot+2](https://via.placeholder.com/800x450/222/fff?text=Screenshot+2)"
       ]
-    },
-    {
-      "id": "game_002",
-      "title": "Telusur: Hampura",
-      "publisher": "SuperStudioProduction",
-      "developer": "SSP Indie Team",
-      "description": "An upcoming atmospheric horror story game",
-      "cover_url": "[https://via.placeholder.com/400x600](https://via.placeholder.com/400x600)",
-      "banner_url": "[https://via.placeholder.com/1200x500](https://via.placeholder.com/1200x500)",
-      "version": "0.0.1",
-      "size_mb": 0,
-      "download_url": "",
-      "executable_name": "",
-      "changelog": "- In development",
-      "is_featured": true,
-      "status": "coming_soon",
-      "category": "Horror",
-      "tags": ["horror", "story", "mystery"],
-      "screenshots": []
     }
   ]
 }
