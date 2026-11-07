@@ -12,7 +12,7 @@
       "cover_url": "[https://via.placeholder.com/400x600](https://via.placeholder.com/400x600)",
       "banner_url": "[https://via.placeholder.com/1200x500](https://via.placeholder.com/1200x500)",
       "version": "1.0.0 (Pre-Alpha)",
-      "size_mb": 150,
+      "size_mb": 266,
       "download_url": "[https://github.com/SuperStudioOfficial/superstudiodatacenter/releases/download/0.1-Telusur/longhug-arm64.zip](https://github.com/SuperStudioOfficial/superstudiodatacenter/releases/download/0.1-Telusur/longhug-arm64.zip)",
       "executable_name": "longhug.exe",
       "changelog": "- Optimizing Graphics\n- Adding a Debugger",
