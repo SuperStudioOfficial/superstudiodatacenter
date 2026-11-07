@@ -12,7 +12,7 @@
       "description": "A horror game that tells the story of a mother who heartlessly sells her own child's organs to pay off debts and fund a lavish lifestyle.",
       "cover_url": "[https://via.placeholder.com/400x600](https://via.placeholder.com/400x600)",
       "banner_url": "[https://via.placeholder.com/1200x500](https://via.placeholder.com/1200x500)",
-      "version": "1.2.0",
+      "version": "1.0.0 (Pre-Alpha)",
       "size_mb": 150,
       "download_url": "[https://github.com/SuperStudioOfficial/superstudiodatacenter/releases/download/0.1-Telusur/longhug-arm64.zip](https://github.com/SuperStudioOfficial/superstudiodatacenter/releases/download/0.1-Telusur/longhug-arm64.zip)",
       "executable_name": "longhug.exe",
