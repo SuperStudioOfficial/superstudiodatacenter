@@ -1,11 +1,13 @@
 {
   "launcher_version": "1.0.0",
-  "updated_at": "2026-11-07T00:00:00Z",
-  "notif_desc": "Pemberitahuan penting: Pembaruan besar untuk sistem launcher dan rilis game baru!",
+  "updated_at": "2025-01-01T00:00:00Z",
+  "notif_desc": "Important update: Major launcher updates and new game releases available!",
   "games": [
     {
       "id": "game_001",
       "title": "Telusur: Long Hug",
+      "publisher": "SuperStudioProduction",
+      "developer": "SSP Indie Team",
       "description": "A pixel-art platformer with retro gameplay",
       "cover_url": "[https://www.gamespot.com/wp-content/uploads/2026/06/GTA-6-Cover-1.jpg](https://www.gamespot.com/wp-content/uploads/2026/06/GTA-6-Cover-1.jpg)",
       "version": "1.2.0",
