@@ -13,7 +13,7 @@
       "banner_url": "[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/4ef95eed5fcd98c576bf13e024bc6c845b622132/ss_4ef95eed5fcd98c576bf13e024bc6c845b622132.1920x1080.jpg?t=1793054556)",
       "version": "1.0.0 (Pre-Alpha)",
       "size_mb": 266,
-      "download_url": "[https://github.com/SuperStudioOfficial/superstudiodatacenter/releases/download/0.1-Telusur/longhug-arm64.zip](https://github.com/SuperStudioOfficial/superstudiodatacenter/releases/download/0.1-Telusur/longhug-arm64.zip)",
+      "download_url": "[https://github.com/SuperStudioOfficial/superstudiodatacenter/releases/download/0.1-Telusur/longhug-1.0.0-prealpha-x86_64.zip](https://github.com/SuperStudioOfficial/superstudiodatacenter/releases/download/0.1-Telusur/longhug-1.0.0-prealpha-x86_64.zip)",
       "executable_name": "longhug.exe",
       "changelog": "- Optimizing Graphics\n- Adding a Debugger",
       "is_featured": true,
