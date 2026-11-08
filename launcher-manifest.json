@@ -1,7 +1,7 @@
 {
   "launcher_version": "1.0.0",
   "updated_at": "2026-11-08T00:00:00Z",
-  "notif_desc": "UPDATE: Adding a new game (TELUSUR: Ain't No Way) to the upcoming list",
+  "notif_desc": "UPDATE: Adding minimum and recommended system requirements for all games",
   "games": [
     {
       "id": "game_001",
@@ -9,20 +9,39 @@
       "publisher": "Super Studio Production",
       "developer": "Super Studio Production",
       "description": "A horror game that tells the story of a mother who heartlessly sells her own child's organs to pay off debts and fund a lavish lifestyle.",
-      "cover_url": "[https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1793054556)",
-      "banner_url": "[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/4ef95eed5fcd98c576bf13e024bc6c845b622132/ss_4ef95eed5fcd98c576bf13e024bc6c845b622132.1920x1080.jpg?t=1793054556)",
+      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1793054556",
+      "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/4ef95eed5fcd98c576bf13e024bc6c845b622132/ss_4ef95eed5fcd98c576bf13e024bc6c845b622132.1920x1080.jpg?t=1793054556",
       "version": "1.0.0 (Pre-Alpha)",
       "size_mb": 266,
-      "download_url": "[https://github.com/SuperStudioOfficial/superstudiodatacenter/releases/download/0.1-Telusur/longhug-1.0.0-prealpha-x86_64.zip](https://github.com/SuperStudioOfficial/superstudiodatacenter/releases/download/0.1-Telusur/longhug-1.0.0-prealpha-x86_64.zip)",
+      "download_url": "https://github.com/SuperStudioOfficial/superstudiodatacenter/releases/download/0.1-Telusur/longhug-1.0.0-prealpha-x86_64.zip",
       "executable_name": "longhug.exe",
       "changelog": "- Optimizing Graphics\n- Adding a Debugger",
       "is_featured": true,
       "status": "released",
       "category": "HORROR",
       "tags": ["HORROR", "STORY", "FREE"],
+      "system_requirements": {
+        "minimum": {
+          "OS": "Windows 10 64-bit",
+          "Processor": "Intel Core i3 / AMD Ryzen 3",
+          "Memory": "4 GB RAM",
+          "Graphics": "NVIDIA GeForce GTX 750 Ti",
+          "Storage": "500 MB available space",
+          "DirectX": "Version 11"
+        },
+        "recommended": {
+          "OS": "Windows 11 64-bit",
+          "Processor": "Intel Core i5 / AMD Ryzen 5",
+          "Memory": "8 GB RAM",
+          "Graphics": "NVIDIA GeForce GTX 1060",
+          "Storage": "1 GB available space",
+          "DirectX": "Version 12",
+          "Additional Notes": "SSD strongly recommended"
+        }
+      },
       "screenshots": [
-        "[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_13bb35638c0267759276f511ee97064773b37a51.1920x1080.jpg?t=1793054556)",
-        "[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0f8cf82d019c614760fd20801f2bb4001da7ea77.1920x1080.jpg?t=1793054556)"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_13bb35638c0267759276f511ee97064773b37a51.1920x1080.jpg?t=1793054556",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0f8cf82d019c614760fd20801f2bb4001da7ea77.1920x1080.jpg?t=1793054556"
       ]
     },
     {
@@ -31,9 +50,9 @@
       "publisher": "Super Studio Production",
       "developer": "Super Studio Production",
       "description": "Ain't no way! is a story-driven, psychological drama game that explores the profound impact of bullying and psychological trauma. Players follow the emotional journey of a protagonist grappling with social pressure, isolation, and psychological torment within their environment. Beyond a linear narrative, the game translates these forms of trauma into visual representations and immersive gameplay mechanics. Through a surreal and symbolic approach, players are invited to experience firsthand the distorted perceptions, anxiety, and internal struggles of the protagonist as their trauma reaches a breaking point.",
-      "cover_url": "[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/d18adad1c6d43d3802b42388cfd384fbf117614b/ss_d18adad1c6d43d3802b42388cfd384fbf117614b.1920x1080.jpg?t=1794072891)",
-      "banner_url": "[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/8d2765de57931435f802fa6757ad6920aea8646a/header_alt_assets_0.jpg?t=1794072891)",
-      "version": ": Coming Soon",
+      "cover_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/d18adad1c6d43d3802b42388cfd384fbf117614b/ss_d18adad1c6d43d3802b42388cfd384fbf117614b.1920x1080.jpg?t=1794072891",
+      "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/8d2765de57931435f802fa6757ad6920aea8646a/header_alt_assets_0.jpg?t=1794072891",
+      "version": "Coming Soon",
       "size_mb": 0,
       "download_url": "",
       "executable_name": "",
@@ -42,9 +61,23 @@
       "status": "coming_soon",
       "category": "HORROR",
       "tags": ["HORROR", "STORY", "FREE"],
+      "system_requirements": {
+        "minimum": {
+          "OS": "Windows 10 64-bit",
+          "Processor": "Intel Core i5",
+          "Memory": "8 GB RAM",
+          "Graphics": "NVIDIA GTX 960"
+        },
+        "recommended": {
+          "OS": "Windows 11 64-bit",
+          "Processor": "Intel Core i7",
+          "Memory": "16 GB RAM",
+          "Graphics": "NVIDIA RTX 2060"
+        }
+      },
       "screenshots": [
-        "[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/dcf7dfe29365b0bf8e3e30798f7c8be5ac9a3ea2/ss_dcf7dfe29365b0bf8e3e30798f7c8be5ac9a3ea2.1920x1080.jpg?t=1794072891)",
-        "[https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/9ea48df963ebc872b59a03f31336705ee8fdc145/ss_9ea48df963ebc872b59a03f31336705ee8fdc145.1920x1080.jpg?t=1794072891)"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/dcf7dfe29365b0bf8e3e30798f7c8be5ac9a3ea2/ss_dcf7dfe29365b0bf8e3e30798f7c8be5ac9a3ea2.1920x1080.jpg?t=1794072891",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/9ea48df963ebc872b59a03f31336705ee8fdc145/ss_9ea48df963ebc872b59a03f31336705ee8fdc145.1920x1080.jpg?t=1794072891"
       ]
     }
   ]
