@@ -1,13 +1,13 @@
 {
-  "launcher_version": "1.0.0",
+  "launcher_version": "1.1.0",
   "launcher_update": {
-    "latest_version": "1.2.0",
+    "latest_version": "1.1.0",
     "download_url": "https://github.com/SuperStudioOfficial/superstudiodatacenter/releases/download/Super-Launcher/SuperLauncher-1.1.0-x86-64.zip",
-    "release_notes": "- New UI animation improvements\n- Fixed system requirements bug\n- Performance enhancements",
+    "release_notes": "- Adding System Requirements/n -Updating the UI to be more modern",
     "force_update": false
   }
   "updated_at": "2026-11-08T00:00:00Z",
-  "notif_desc": "UPDATE: Adding minimum and recommended system requirements for all games",
+  "notif_desc": "UPDATE: updating the launcher to a more current version",
   "games": [
     {
       "id": "game_001",
