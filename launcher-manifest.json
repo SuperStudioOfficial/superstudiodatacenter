@@ -1,5 +1,11 @@
 {
   "launcher_version": "1.0.0",
+  "launcher_update": {
+    "latest_version": "1.1.0",
+    "download_url": "https://github.com/SuperStudioOfficial/superstudiodatacenter/releases/download/v1.1.0/SuperLauncher-Update.zip",
+    "release_notes": "- New UI animation improvements\n- Fixed system requirements bug\n- Performance enhancements",
+    "force_update": false
+  }
   "updated_at": "2026-11-08T00:00:00Z",
   "notif_desc": "UPDATE: Adding minimum and recommended system requirements for all games",
   "games": [
